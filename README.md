@@ -1,1 +1,0 @@
-# ignite-node-rentalx
